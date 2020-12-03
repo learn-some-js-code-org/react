@@ -113,6 +113,8 @@
   ``` v12.16.3 ```
 
   ``` 6.14.4 ```
+
+  [![asciicast](https://asciinema.org/a/7yh9JVHYYNSP8XBLTkOqBLN2p.svg)](https://asciinema.org/a/7yh9JVHYYNSP8XBLTkOqBLN2p)
   ## git
   ### Что такое git 
   git - это распределенная система контроля версий. Что это значит? В очень грубом приближении это
